@@ -1,11 +1,4 @@
 # **Gamezone-Analysis**
-
----
-
-A short description of your data analysis project: what dataset you used, why you analysed it, and the problem or question you aimed to answer.
-
-Notebook Link [link text](https://example.com)
-
 ---
 
 ## Table of Contents
@@ -44,9 +37,9 @@ Fulfilment Data Integrity: Evaluation of refund and shipping data to improve ope
 
 North Star metrics: Total Sales, Average Order Value (AOV), Refund Rates, Total Order Count
 
-[Original Dataset can be found here]()
-[ERD of Dataset can be found here]()
-[Excel workbook for analysis and more detailed insights can be found here]()
+[Original Dataset can be found here]() \
+[ERD of Dataset can be found here]() \ 
+[Excel workbook for analysis and more detailed insights can be found here]() \ 
 
 ---
 
