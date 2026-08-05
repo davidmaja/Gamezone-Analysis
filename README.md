@@ -23,11 +23,9 @@ Notebook Link [link text](https://example.com)
 
 ## Background & Overview 
 
-- Motivation: Why did you choose this dataset or problem?
+GameZone is a fictitious video game marketplace and retailer, created to simulate a realistic e-commerce environment for analytical purposes.
 
-- Objective: What question(s) are you trying to answer through this analysis?
-
-- Learning Outcomes: What did you learn while working on this project?
+The dataset combines anonymised real-world data with AI-generated data to replicate the complexity of genuine business data, including a range of business metrics and dimensions, as well as realistic imperfections such as missing values, nulls, and inconsistent records. This project analyses the data to uncover actionable insights and deliver recommendations across the finance, product, sales, marketing and operations teams 
 
 - North star metrics
 
