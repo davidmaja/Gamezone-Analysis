@@ -60,8 +60,8 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 | Action | Owner | Expected Impact |
 | :--- | :---: | ---: |
 |**Bundle high perfomers with low performers:**<br> Pair main revenue drivers (27in 4K Gaming Monitor, PlayStation 5, Nintendo Switch) into promotional bundles with underperforming accessories like gaming mice and  "Razor Pro Gaming Headset"|Product/<br>Sales Team|Increase sales of low performing SKUs<br><br>Increased AOV on orders|
-|**Diverify acquisition beyond direct sales:**<br>          | Marketing Team | Row 2 Data |
-|**Review profitiablity for lower perfoming product lines:**<br>| Finance Team | Row 2 Data |
+|**Diverify acquisition beyond direct sales:**<br> Expand and optimise other digital channels (Social media, Email, Affiliate), to reduce reliance on Direct Traffic| Marketing Team | Reduce sales dips / Stabilise fluctuations |
+|**Review profitiablity for lower perfoming product lines:**<br> Conduct sanity checks on price-to-volume models across low volume product categories (especially gaming mice, which accounts for <1% of sales)| Finance Team | Potential discontinuation of product SKU <br> or <br> Inclusion as part of a bundle |
 |**Audit quality & Supply chain:**<br>                         | Operations Team| Row 2 Data |
 |**Clean up fullfilment Data logging:**<br>                     | Operations Team| Row 2 Data |
 
