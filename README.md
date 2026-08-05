@@ -22,13 +22,14 @@ The dataset combines anonymised real-world data with AI-generated data to replic
 
 Insights and recommendations are provided on the following key areas:
 
-Sales Trends: Evaluation of historical sales patterns, focusing on Revenue, Order volume, and Average Order Value (AOV)
 
-Product Performance: An analysis of the different product lines, understanding their impact on sales
+- **Sales Trends**: Evaluation of historical sales patterns, focusing on Revenue, Order volume, and Average Order Value (AOV)
 
-Marketing Channel Effectiveness: Analysed customer acquisition sources to measure their effectiveness
+- **Product Performance**: An analysis of the different product lines, understanding their impact on sales
 
-Fulfilment Data Integrity: Evaluation of refund data to improve operational visibility and reduce refund volume  
+- **Marketing Channel Effectiveness**: Analysed customer acquisition sources to measure their effectiveness
+
+- **Fulfilment Data Integrity**: Evaluation of refund data to improve operational visibility and reduce refund volume  
 
 
 --- 
