@@ -72,12 +72,28 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 ## Analysis & Visualizations
 
-Summarise your findings, insights, and visualisations:
+### Sales Trends
 
-- Describe the key trends and patterns you observed
-- Show charts, graphs, and tables
-- Include important observations or correlations found in the data
+#### Overall Sales Performance 
 
+- Sales more than doubled in early 2020, with all-time highs at the end of 2020
+- Large dips in the data seem to be a direct result of the drop in sales performance of the 3 top-performing products 
+
+#### Regional Sales Performance 
+
+- The North American region led in sales, with EMEA next. APAC and LATAM lagged, showing there’s room to grow in those markets
+- Sales have dipped and spiked, showing a consistent trend across the region. This trend appears geographically independent and on a macro scale
+
+### Product Performance
+
+#### Top Performing Products 
+
+- The top three products were the (27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5), which accounted for over 80% of sales. This shows a strong reliance on a small subset of items
+- The Nintendo Switch maintained the highest order volume; however was beat out in AOV by several SKUs. Assess methods to boost AOV, like implementing bundle deals
+
+#### Underperforming products
+
+- Gaming mice and the "Razor pro gaming headset" pale in sales volume compared to the other SKUs. These products make up less than 1% of sales. This suggests we should evaluate whether to discontinue them or bundle them with top performers to boost average order value (AOV)
 
 ---- 
 Assumptions and Caveats 
