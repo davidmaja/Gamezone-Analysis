@@ -76,6 +76,12 @@ Summarise your findings, insights, and visualisations:
 - Include important observations or correlations found in the data
 
 
+---- 
+Assumptions and Caveats 
+
+
+
+
 
 --- 
 
