@@ -28,7 +28,7 @@ Product Performance: An analysis of the different product lines, understanding t
 
 Marketing Channel Effectiveness: Analysed customer acquisition sources to measure their effectiveness
 
-Fulfilment Data Integrity: Evaluation of refund and shipping data to improve operational visibility and reduce refund volume  
+Fulfilment Data Integrity: Evaluation of refund data to improve operational visibility and reduce refund volume  
 
 
 --- 
@@ -59,11 +59,11 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 | Action | Owner | Expected Impact |
 | :--- | :---: | ---: |
-|**Bundle high perfomers with low performers:**<br> Pair main revenue drivers (27in 4K Gaming Monitor, PlayStation 5, Nintendo Switch) into promotional bundles with underperforming accessories like gaming mice and  "Razor Pro Gaming Headset"|Product/<br>Sales Team|Increase sales of low performing SKUs<br><br>Increased AOV on orders|
+|**Bundle high performers with low performers:**<br> Pair main revenue drivers (27in 4K Gaming Monitor, PlayStation 5, Nintendo Switch) into promotional bundles with underperforming accessories like gaming mice and  "Razor Pro Gaming Headset"|Product/<br>Sales Team|Increase sales of low performing SKUs<br><br>Increased AOV on orders|
 |**Diverify acquisition beyond direct sales:**<br> Expand and optimise other digital channels (Social media, Email, Affiliate), to reduce reliance on Direct Traffic| Marketing Team | Reduce sales dips / Stabilise fluctuations |
-|**Review profitiablity for lower perfoming product lines:**<br> Conduct sanity checks on price-to-volume models across low volume product categories (especially gaming mice, which accounts for <1% of sales)| Finance Team | Potential discontinuation of product SKU <br> or <br> Inclusion as part of a bundle |
-|**Audit quality & Supply chain:**<br>                         | Operations Team| Row 2 Data |
-|**Clean up fullfilment Data logging:**<br>                     | Operations Team| Row 2 Data |
+|**Review profitability for lower performing product lines:**<br> Conduct sanity checks on price-to-volume models across low volume product categories (especially gaming mice, which account for <1% of sales)| Finance Team | Potential discontinuation of product SKU <br> or <br> Inclusion as part of a bundle |
+|**Audit quality & Supply chain:**<br>Conduct sanity checks focusing on (Product quality, Packaging, Supplier Stability) | Operations Team| Halt and lower rapidly rising refund rates from ~30%<br>**(Target: <10%)**|
+|**Clean up fullfilment Data logging:**<br>Resolve nonsenseical timestamps in shipping logging system | Operations Team| Restore realiable tracking and operational visibility|
 
 
 
