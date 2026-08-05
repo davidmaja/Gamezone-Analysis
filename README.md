@@ -98,6 +98,7 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 ### Marketing Channel Effectiveness 
 
 - Traffic from direct channels is much higher than from other channels. This suggests either a mistake in sales accreditation or represents a big opportunity for the marketing team to explore
+- Sales volume is highest in North America and Emerging Markets. The other regions lag behind, showing there’s room to grow our market base there
 
 ### Fulfilment Data Integrity 
 
