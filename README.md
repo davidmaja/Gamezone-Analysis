@@ -27,22 +27,26 @@ GameZone is a fictitious video game marketplace and retailer, created to simulat
 
 The dataset combines anonymised real-world data with AI-generated data to replicate the complexity of genuine business data, including a range of business metrics and dimensions, as well as realistic imperfections such as missing values, nulls, and inconsistent records. This project analyses the data to uncover actionable insights and deliver recommendations across the finance, product, sales, marketing and operations teams 
 
-- North star metrics
+Insights and recommendations are provided on the following key areas:
+
+Sales Trends: Evaluation of historical sales patterns, focusing on Revenue, Order volume, and Average Order Value (AOV)
+
+Product Performance: An analysis of the different product lines, understanding their impact on sales
+
+Marketing Channel Effectiveness: Analysed customer acquisition sources to measure their effectiveness
+
+Fulfilment Data Integrity: Evaluation of refund and shipping data to improve operational visibility and reduce refund volume  
 
 
 --- 
 
 ## Dataset
 
-Provide details about the dataset used:
+North Star metrics: Total Sales, Average Order Value (AOV), Refund Rates, Total Order Count
 
-- Source of the dataset (link if available)
-- Size of the dataset (# of rows and columns)
-- Key features/columns used
-- Any preprocessing or cleaning steps
-
-[]()
-[]()
+[Original Dataset can be found here]()
+[ERD of Dataset can be found here]()
+[Excel workbook for analysis and more detailed insights can be found here]()
 
 ---
 
