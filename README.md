@@ -35,7 +35,8 @@ Fulfilment Data Integrity: Evaluation of refund and shipping data to improve ope
 
 ## Dataset
 
-North Star metrics: Total Sales, Average Order Value (AOV), Refund Rates, Total Order Count
+North Star metrics:
+Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 [Original Dataset can be found here]()<br>
 [ERD of Dataset can be found here]()<br>
