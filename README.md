@@ -95,6 +95,16 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 - Gaming mice and the "Razor pro gaming headset" pale in sales volume compared to the other SKUs. These products make up less than 1% of sales. This suggests we should evaluate whether to discontinue them or bundle them with top performers to boost average order value (AOV)
 
+### Marketing Channel Effectiveness 
+
+- Traffic from direct channels is much higher than from other channels. This suggests either a mistake in sales accreditation or represents a big opportunity for the marketing team to explore
+
+### Fulfilment Data Integrity 
+
+- Refund rates rose from less <10% in 2019 to ~30% of revenue by 2021. It seems there may be an issue in the supply chain or a drop in supplier quality
+- Shipping timestamps are logged before the purchase timestamps in several cases. Highlighting potential errors in the data logging system, indicating the operations team need reassess their data logging process
+  
+
 ---- 
 Assumptions and Caveats 
 
