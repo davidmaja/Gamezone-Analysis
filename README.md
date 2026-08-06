@@ -137,7 +137,7 @@ Executive Summary
   
 
 ---- 
-Assumptions and Caveats 
+## Assumptions and Caveats 
 
 - Sales data is complete and accurate for the years 2019 and 2020
 - External factors (e.g holiday seasons) may have impacted customer behaviour and sales but are not modelled directly
