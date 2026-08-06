@@ -131,7 +131,9 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 ---- 
 Assumptions and Caveats 
 
-
+- Sales data is complete and accurate for the years 2019 and 2020
+- External factors (e.g holiday seasons) may have impacted customer behaviour and sales but are not modelled directly
+- Shipping data irregularity is a result of poor logging processes and is not falsified data 
 
 
 
