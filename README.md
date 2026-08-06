@@ -47,10 +47,18 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 ## Executive Summary 
 
-- Summarise the outcome of your analysis
-- What are the main insights or takeaways?
-- How could this analysis inform decision-making?
-- Recommendations or next steps for further analysis
+Executive Summary
+* Outcome: Analyzing GameZone's sales, product, marketing, and fulfilment data shows strong top-line growth. However, there are risks from product concentration and issues with the fulfilment process losing control.
+* Key Insights:
+    * Sales more than doubled in 2020. However, growth is focused on three SKUs: the 27in 4K Gaming Monitor, Nintendo Switch, and PlayStation 5. These three items make up over 80% of revenue.
+    * North America and EMEA lead regional sales, while APAC and LATAM lag, indicating untapped growth markets
+    * Direct traffic leads in customer acquisition compared to other channels. This suggests either misattribution or that the marketing mix isn’t fully utilised.
+    * Refund rates nearly tripled, rising from under 10% in 2019 to about 30% in 2021. This happened alongside shipping timestamps that were logged before purchase timestamps. This points to problems in the supply chain and data logging.
+* GameZone's revenue base is narrow. Also, its fulfilment pipeline is losing margin and trust. Product, Marketing, Finance, and Operations teams can use this to decide where to focus first. This approach helps them avoid spreading their efforts too thin.
+* Recommended Next Steps:
+    1. Operations — Audit product quality and supply chain to halt rising refund rates (target: <10%)
+    2. Product/Sales — Bundle top performers with underperforming accessories to lift AOV and reduce SKU concentration
+    3. Marketing — Diversify acquisition beyond direct traffic to stabilise sales and reduce channel dependency
 
 
 
