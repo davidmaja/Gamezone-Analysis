@@ -155,36 +155,6 @@ Assumptions and Caveats
 
 ---
 
-## Installation
-
-Example of step-by-step instructions to set up the project locally:
-
-- Clone the repository
-git clone <https://github.com/YOUR_USERNAME/YOUR_REPO.git>
-
-- Navigate to the project folder
-cd YOUR_REPO
-
-- Install dependencies
-pip install -r requirements.txt
-
-- Launch Jupyter Notebook
-jupyter notebook
-
----
-​
-## Usage
-
-Instructions for using the project:
-
-1. Open the main notebook (analysis.ipynb)
-2. Run each cell sequentially to reproduce the analysis
-3. Visualisations and results will be generated automatically
-   
-Include screenshots of your visualisations if available:
-
----
-
 ## License
 
 This project is licensed under the MIT License – feel free to use and modify it.
