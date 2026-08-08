@@ -40,7 +40,7 @@ North Star metrics:<br>
 Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 [Original Dataset can be found here](https://github.com/davidmaja/Gamezone-Analysis/blob/409347490129b37805c68d329ea79081c051a5ca/gamezone-orders-data.xlsx)<br>
-[ERD of Dataset can be found here]()<br>
+[ERD of Dataset can be found here](https://github.com/davidmaja/Gamezone-Analysis/blob/e55bf864fbba95483452604882ec956894e75a78/GameZone%20Entity%20Relationship%20Diagram.png)<br>
 [Excel workbook for analysis and more detailed insights can be found here](https://github.com/davidmaja/Gamezone-Analysis/blob/409347490129b37805c68d329ea79081c051a5ca/gamezone-orders-data-cleaned.xlsx)
 
 ---
