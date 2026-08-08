@@ -47,7 +47,6 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 ## Executive Summary 
 
-Executive Summary
 * Outcome: Analyzing GameZone's sales, product, marketing, and fulfilment data shows strong top-line growth. However, there are risks from product concentration and issues with the fulfilment process losing control.
 * Key Insights:
     * Sales more than doubled in 2020. However, growth is focused on three SKUs: the 27in 4K Gaming Monitor, Nintendo Switch, and PlayStation 5. These three items make up over 80% of revenue.
