@@ -87,10 +87,12 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
   
 <img width="878" height="522" alt="1 Overall Sales Performance " src="https://github.com/user-attachments/assets/7b6ba2ac-47a6-41c1-8d9a-a395b1befcf9" />
 
-
+<br> <br>
 - Large dips in the data seem to be a direct result of the drop in sales performance of the 3 top-performing products
 
 <img width="874" height="525" alt="2 Overall sales performance 2" src="https://github.com/user-attachments/assets/69884026-47a7-4b12-b728-f1478a690a02" />
+
+<br> <br>
 
 #### Regional Sales Performance 
 
@@ -98,8 +100,11 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 <img width="888" height="541" alt="3 Regional sales performance" src="https://github.com/user-attachments/assets/676a6a55-ce1a-4785-aedc-bdc3c8c3acd4" />
 
+<br> <br>
+
 - Sales have dipped and spiked, showing a consistent trend across the region. This trend appears geographically independent and on a macro scale
 
+<br> <br>
 
 ### Product Performance
 
@@ -109,14 +114,20 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 <img width="900" height="541" alt="3 Top performing products " src="https://github.com/user-attachments/assets/8d64d645-7d41-4741-a44f-a696f1509622" />
 
+<br> <br>
+
 - The Nintendo Switch maintained the highest order volume; however was beat out in AOV by several SKUs. Assess methods to boost AOV, like implementing bundle deals
 
 <img width="886" height="534" alt="4 Top performing products 2 " src="https://github.com/user-attachments/assets/41ef5753-0055-4aa8-92c9-3a0a66721cbe" />
+
+<br> <br>
 
 
 #### Underperforming products
 
 - Gaming mice and the "Razor pro gaming headset" pale in sales volume compared to the other SKUs. These products make up less than 1% of sales. This suggests we should evaluate whether to discontinue them or bundle them with top performers to boost average order value (AOV)
+
+<br> <br>
 
 ### Marketing Channel Effectiveness 
 
@@ -124,13 +135,15 @@ Total Sales<br>Average Order Value (AOV)<br>Refund Rates<br>Total Order Count
 
 <img width="880" height="541" alt="5 Marketing Channel effectiveness" src="https://github.com/user-attachments/assets/aa30fb0c-3475-41d3-b91b-3ae64c2d9f3e" />
 
-
+<br> <br>
 
 ### Fulfilment Data Integrity 
 
 - Refund rates rose from less <10% in 2019 to ~30% of revenue by 2021. It seems there may be an issue in the supply chain or a drop in supplier quality
 
 <img width="900" height="541" alt="7  Refund rates" src="https://github.com/user-attachments/assets/9892ad0d-31c3-46b4-a7ca-9fa12109e942" />
+
+<br> <br>
 
 - Shipping timestamps are logged before the purchase timestamps in several cases. Highlighting potential errors in the data logging system, indicating the operations team need reassess their data logging process
   
